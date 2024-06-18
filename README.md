@@ -1,3 +1,3 @@
 # myfirstpage
 my first git repository<br/>
-author: Avishi
+author: Avishi Prasad
